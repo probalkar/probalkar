@@ -10,8 +10,10 @@ I'm a 3rd Year B. Tech. Student in the field of Machine Learning from Pune, Indi
 * 🖥️  See my portfolio at [My Portfolio](http://probalkar.github.io/My-Portfolio/)
 * ✉️  You can contact me at [probalkar03@gmail.com](mailto:probalkar03@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://probalkar.github.io/My-Portfolio/)
-* 🧠  I'm learning Tensorflow, PyTorch, OpenCV, YOLO and Streamlit
-* 🤝  I'm open to collaborating on any projects related to machine or deep learning
+* 🧠  I'm learning Tensorflow, PyTorch, OpenCV, YOLO, NLTK, and Streamlit
+* 🤝  I'm open to collaborating on any projects related to machine learning or deep learning
+* 👔  My softskills include Communication Skills, Time Management, Team work, Team Leadership, and Emotional Intelligence
+* 🗣️  I can speak English, Hindi, and Bengali
 * ⚡  I'm humorous and sarcastic by nature. I like traveling, watching movies, playing video games, and listening music
 
 <br />
