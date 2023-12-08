@@ -6,7 +6,7 @@ Machine Learning Engineer
 
 I'm a 3rd Year B. Tech. Student in the field of Machine Learning from Pune, India. I am Bengali by ethnicity, and I love to explore new technologies related to AI and Machine Learning.
 
-* 🌍  I'm based in Nashik, Maharashtra, India
+* 🌍  I'm based in Deolali, Nashik
 * 🖥️  See my portfolio at [My Portfolio](http://probalkar.github.io/My-Portfolio/)
 * ✉️  You can contact me at [probalkar03@gmail.com](mailto:probalkar03@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://probalkar.github.io/My-Portfolio/)
