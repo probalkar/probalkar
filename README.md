@@ -9,7 +9,7 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 * 🌍  I'm based in Deolali, Nashik
 * 🖥️  See my portfolio at [My Portfolio](http://probalkar.github.io/My-Portfolio/)
 * ✉️  You can contact me at [probalkar03@gmail.com](mailto:probalkar03@gmail.com)
-* 🚀  I'm currently following [100 Days of Machine Learning](https://github.com/probalkar/100-Days-of-Machine-Learning.git) by CampusX and preparing for my GATE 2024 examination
+* 🚀  I'm currently revising my machine learning concepts from [100 Days of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) by CampusX and preparing for my GATE 2024 examination
 * 🧠  I'm learning Tensorflow, PyTorch, OpenCV, YOLO, NLTK, and Streamlit
 * 🤝  I'm open to collaborating on any projects related to machine learning or deep learning
 * 👔 &nbsp;My softskills include Communication Skills, Time Management, Team work, Team Leadership, and Emotional Intelligence
