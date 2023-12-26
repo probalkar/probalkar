@@ -44,52 +44,24 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img height="52" src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript"/>
 </p>
 
 <br>
 
 ## 🧩 Frameworks
-### 🤖 Machine Learning
 <p align="left">
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas"/>&nbsp;
   <img width="48" height="48" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy"/>&nbsp;
-</p>
-
-### 📊 Data Visualization
-<p align="left">
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib"/>&nbsp;
   <img width="48" height="48" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn"/>&nbsp;
-</p>
-
-### 🖥️ Frontend
-<p align="left">
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="javascript"/>&nbsp;
-</p>
-
-### 🗄️ Backend
-<p align="left">
   <img height="48" src="https://streamlit.io/images/brand/streamlit-mark-color.png?nf_resize=smartcrop&w=56&h=32" alt="streamlit"/>&nbsp;
-</p>
-
-### 🗃️ Database
-<p align="left">
   <img height="48" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql"/>&nbsp;&nbsp;
   <img height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb"/>&nbsp;
-</p>
-
-### 🌐 Virtual Environment(WSL2)
-<p align="left">
   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/768px-UbuntuCoF.svg.png" alt="ubuntu"/>&nbsp;
-</p>
-
-<br>
-
-## 🛠️ IDE
-<p align="left">
-  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode"/>&nbsp;
 </p>
 
 <br />
