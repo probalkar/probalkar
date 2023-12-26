@@ -27,7 +27,7 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 # 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/probalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="probalkar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/probal-kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="probal-kar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21913974/probal-kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="probal-kar" height="30" width="40" /></a>
 <a href="https://kaggle.com/probalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="probalkar" height="30" width="40" /></a>
 <a href="https://instagram.com/prbl.kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prbl.kr" height="30" width="40" /></a>
 <a href="https://medium.com/@probalkar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@probalkar03" height="30" width="40" /></a>
