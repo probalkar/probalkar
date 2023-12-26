@@ -65,6 +65,14 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/768px-UbuntuCoF.svg.png" alt="ubuntu"/>&nbsp;
 </p>
 
+<br>
+
+## 🛠️ IDE
+<p align="left">
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode"/>&nbsp;&nbsp;
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter-notebook"/>&nbsp;
+</p>
+
 <br />
 
 # 📈 GitHub Stats:
