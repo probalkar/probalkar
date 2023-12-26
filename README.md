@@ -24,25 +24,77 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 
 <br />
 
-# 🌐 Connect with me
+# 📲 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/probalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="probalkar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21913974/probal-kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="probal-kar" height="30" width="40" /></a>
-<a href="https://kaggle.com/probalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="probalkar" height="30" width="40" /></a>
-<a href="https://instagram.com/prbl.kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prbl.kr" height="30" width="40" /></a>
-<a href="https://medium.com/@probalkar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@probalkar03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCLIwC8Ph_OKAHFWgRvzfp4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Communist Santa 🎅🏻" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/probalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="probalkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/probalkar" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://stackoverflow.com/users/21913974/probal-kar" target="blank"><img width="50" height="50" src="https://brandlogos.net/wp-content/uploads/2021/11/stack-overflow-logo-768x768.png" alt="stackoverflow"/></a>
+<a href="https://kaggle.com/probalkar" target="blank"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo"/></a>
+<a href="https://instagram.com/prbl.kr" target="blank"><img width="48" height="48" src="https://freepngimg.com/thumb/instagram/118541-logo-instagram-png-download-free.png" alt="instagram-new"/></a>
+<a href="https://medium.com/@probalkar03" target="blank"><img width="48" height="48" src="https://img.icons8.com/glyph-neue/48/medium-logo.png" alt="medium-logo"/></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCLIwC8Ph_OKAHFWgRvzfp4g" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
 </p>
 
 <br />
 
-# 💻 Languages and Tools
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# 💻 Techstack
+## 📝 Languages
+<p align="left"> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/40/c-programming.png" alt="c-programming"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+</p>
+
+<br>
+
+## 🧩 Frameworks
+### 🤖 Machine Learning
+<p align="left">
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>&nbsp;
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas"/>&nbsp;
+  <img width="48" height="48" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy"/>&nbsp;
+</p>
+
+### 📊 Data Visualization
+<p align="left">
+  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib"/>&nbsp;
+  <img width="48" height="48" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn"/>&nbsp;
+</p>
+
+### 🖥️ Frontend
+<p align="left">
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png" alt="javascript"/>&nbsp;
+</p>
+
+### 🗄️ Backend
+<p align="left">
+  <img height="48" src="https://streamlit.io/images/brand/streamlit-mark-color.png?nf_resize=smartcrop&w=56&h=32" alt="streamlit"/>&nbsp;
+</p>
+
+### 🗃️ Database
+<p align="left">
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql"/>&nbsp;&nbsp;
+  <img height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb"/>&nbsp;
+</p>
+
+### 🌐 Virtual Environment(WSL2)
+<p align="left">
+  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/768px-UbuntuCoF.svg.png" alt="ubuntu"/>&nbsp;
+</p>
+
+<br>
+
+## 🛠️ IDE
+<p align="left">
+  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode"/>&nbsp;
+</p>
 
 <br />
 
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=probalkar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=probalkar&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=probalkar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
