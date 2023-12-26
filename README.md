@@ -12,7 +12,7 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 
 <img align="right" alt="Coding" width="380" src="side.gif">
 
-* 🌍  I'm based in Deolali, Nashik
+* 🌍  I'm based in Devlali, Nashik
 * 🖥️  See my portfolio at [My Portfolio](http://probalkar.github.io/My-Portfolio/)
 * ✉️  You can contact me at [probalkar03@gmail.com](mailto:probalkar03@gmail.com)
 * 🚀  I'm currently revising my machine learning concepts from [100 Days of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) by CampusX and preparing for my GATE 2024 examination
@@ -20,7 +20,7 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 * 🤝  I'm open to collaborating on any projects related to machine learning or deep learning
 * 👔 &nbsp;My softskills include Communication Skills, Time Management, Team work, Team Leadership, and Emotional Intelligence
 * 🗣️ &nbsp;I can speak English, Hindi, and Bengali
-* ⚡  I'm humorous and sarcastic by nature. I like traveling, watching movies, listening music, and playing video games. Checkout my gameplay videos on my YouTube channel in socials section.
+* ⚡  I'm humorous and sarcastic by nature. I like traveling, watching movies, listening music, and playing video games. Checkout my gameplay videos on my YouTube channel below.
 
 <br />
 
@@ -36,7 +36,7 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 
 <br />
 
-# 💻 Techstack
+# 💻 My Techstack
 ## 📝 Languages
 <p align="left"> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -53,6 +53,7 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 <p align="left">
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch"/>&nbsp;
+  <img height="48" src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_black.png" alt="opencv"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>&nbsp;
   <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas"/>&nbsp;
   <img width="48" height="48" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy"/>&nbsp;
