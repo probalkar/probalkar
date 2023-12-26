@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![](banner.gif)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=probalkar&label=Profile%20views&color=0e75b6&style=flat" alt="probalkar" /> </p>
 
@@ -10,7 +10,7 @@ I am a  passionate Machine Learning Engineer from India
 
 I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, India. I am Bengali by ethnicity, and I love to explore new technologies related to AI and Machine Learning.
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="Coding" width="380" src="side.gif">
 
 * 🌍  I'm based in Deolali, Nashik
 * 🖥️  See my portfolio at [My Portfolio](http://probalkar.github.io/My-Portfolio/)
