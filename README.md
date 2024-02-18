@@ -84,9 +84,13 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 
 ## 🔝 Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/probalkar/Real-Time-Face-Mask-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Real-Time-Face-Mask-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/probalkar/Rock-Paper-Scissor-using-Hand-Gesture" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Rock-Paper-Scissor-using-Hand-Gesture&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/probalkar/Real-Time-Face-Mask-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Real-Time-Face-Mask-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a>
+  <a href="https://github.com/probalkar/Rock-Paper-Scissor-using-Hand-Gesture" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Rock-Paper-Scissor-using-Hand-Gesture&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a>
+  <a href="https://github.com/probalkar/Windows-Auto-brightness" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Windows-Auto-brightness&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/probalkar/Windows-Auto-brightness" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Windows-Auto-brightness&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=probalkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
