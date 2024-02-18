@@ -8,14 +8,14 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 I am a  passionate Machine Learning Engineer from India
 -------------------------------------------------------
 
-I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, India. I am Bengali by ethnicity, and I love to explore new technologies related to AI and Machine Learning.
+I'm a 3rd Year B. Tech. student in the field of Machine Learning and AI from Pune, India. I am Bengali by ethnicity, and I love to explore new technologies related to AI and Machine Learning.
 
 <img align="right" alt="Coding" width="380" src="side.gif">
 
-* 🌍  I'm based in Devlali, Nashik
+* 🌍  I live in Devlali, Nashik
 * 🖥️  See my portfolio at [My Portfolio](http://probalkar.github.io/My-Portfolio/)
 * ✉️  You can contact me at [probalkar03@gmail.com](mailto:probalkar03@gmail.com)
-* 🚀  I'm currently revising my machine learning concepts from [100 Days of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) by CampusX
+* 🚀  I'm currently interning as a Technical Content Writer at [Geeks for Geeks](https://www.geeksforgeeks.org/)
 * 🧠  I'm learning Tensorflow, PyTorch, OpenCV, YOLO, NLTK, and Streamlit
 * 🤝  I'm open to collaborating on any projects related to machine learning or deep learning
 * 👔 &nbsp;My softskills include Communication Skills, Time Management, Team work, Team Leadership, and Emotional Intelligence
