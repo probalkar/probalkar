@@ -15,7 +15,7 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 * 🌍  I'm based in Devlali, Nashik
 * 🖥️  See my portfolio at [My Portfolio](http://probalkar.github.io/My-Portfolio/)
 * ✉️  You can contact me at [probalkar03@gmail.com](mailto:probalkar03@gmail.com)
-* 🚀  I'm currently revising my machine learning concepts from [100 Days of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) by CampusX and preparing for my GATE 2024 examination
+* 🚀  I'm currently revising my machine learning concepts from [100 Days of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) by CampusX
 * 🧠  I'm learning Tensorflow, PyTorch, OpenCV, YOLO, NLTK, and Streamlit
 * 🤝  I'm open to collaborating on any projects related to machine learning or deep learning
 * 👔 &nbsp;My softskills include Communication Skills, Time Management, Team work, Team Leadership, and Emotional Intelligence
@@ -84,11 +84,9 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning from Pune, Indi
 
 ## 🔝 Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/probalkar/Real-Time-Face-Mask-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Real-Time-Face-Mask-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/probalkar/Rock-Paper-Scissor-using-Hand-Gesture" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Rock-Paper-Scissor-using-Hand-Gesture&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/probalkar/Real-Time-Face-Mask-Detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Real-Time-Face-Mask-Detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/probalkar/Rock-Paper-Scissor-using-Hand-Gesture" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Rock-Paper-Scissor-using-Hand-Gesture&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/probalkar/Windows-Auto-brightness" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Windows-Auto-brightness&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/probalkar/Windows-Auto-brightness" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=probalkar&repo=Windows-Auto-brightness&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=probalkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
