@@ -16,11 +16,11 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning and AI from Pun
 * 🖥️  See my portfolio at [My Portfolio](http://probalkar.github.io/My-Portfolio/)
 * ✉️  You can contact me at [probalkar03@gmail.com](mailto:probalkar03@gmail.com)
 * 🚀  I'm currently interning as a Technical Content Writer at [Geeks for Geeks](https://www.geeksforgeeks.org/)
-* 🧠  I'm learning Tensorflow, PyTorch, OpenCV, YOLO, NLTK, and Streamlit
+* 🧠  I'm currently learning Tensorflow, PyTorch, OpenCV, YOLO, NLTK, and Streamlit
 * 🤝  I'm open to collaborating on any projects related to machine learning or deep learning
 * 👔 &nbsp;My softskills include Communication Skills, Time Management, Team work, Team Leadership, and Emotional Intelligence
 * 🗣️ &nbsp;I can speak English, Hindi, and Bengali
-* ⚡  I'm humorous and sarcastic by nature. I like traveling, watching movies, listening music, and playing video games. Checkout my gameplay videos on my YouTube channel below.
+* ⚡  I'm humorous and sarcastic by nature. I like traveling, watching movies, listening music, and playing video games.
 
 <br />
 
@@ -31,7 +31,6 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning and AI from Pun
 <a href="https://kaggle.com/probalkar" target="blank"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo"/></a>
 <a href="https://instagram.com/prbl.kr" target="blank"><img width="48" height="48" src="https://freepngimg.com/thumb/instagram/118541-logo-instagram-png-download-free.png" alt="instagram-new"/></a>
 <a href="https://medium.com/@probalkar03" target="blank"><img width="48" height="48" src="https://img.icons8.com/ios-filled/48/ffffff/medium-logo.png" alt="medium-logo"/></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCLIwC8Ph_OKAHFWgRvzfp4g" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
 </p>
 
 <br />
@@ -67,14 +66,6 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning and AI from Pun
 </p>
 
 <br>
-
-## 🛠️ IDE
-<p align="left">
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode"/>&nbsp;&nbsp;
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter-notebook"/>&nbsp;
-</p>
-
-<br />
 
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=probalkar&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
