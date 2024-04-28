@@ -29,7 +29,6 @@ I'm a 3rd Year B. Tech. student in the field of Machine Learning and AI from Pun
 <a href="https://linkedin.com/in/probalkar" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://stackoverflow.com/users/21913974/probal-kar" target="blank"><img width="50" height="50" src="https://brandlogos.net/wp-content/uploads/2021/11/stack-overflow-logo-768x768.png" alt="stackoverflow"/></a>
 <a href="https://kaggle.com/probalkar" target="blank"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo"/></a>
-<a href="https://instagram.com/_probalkar" target="blank"><img width="48" height="48" src="https://freepngimg.com/thumb/instagram/118541-logo-instagram-png-download-free.png" alt="instagram-new"/></a>
 <a href="https://medium.com/@probalkar03" target="blank"><img width="48" height="48" src="https://img.icons8.com/ios-filled/48/ffffff/medium-logo.png" alt="medium-logo"/></a>&nbsp;
 </p>
 
