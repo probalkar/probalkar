@@ -50,7 +50,11 @@ Data Engineer at **Cognizant**, building reliable reporting and data products on
 - **MBA, Data Science** — Amity University Online · 2026–present
 - **B.Tech, Computer Science (AI & ML)** — G.H. Raisoni College of Engineering and Management · 2021–2025 · **CGPA 9.17**
 
-Databricks Certified Data Engineer Associate · Databricks Certified Machine Learning Engineer Associate · Google Cloud Professional Machine Learning Engineer · Claude Certified Developer Foundations · GitHub Copilot-300 Certified
+- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/5b009dae-5b1c-44de-84ff-921c93d8f7c4#acc.q7aXbFpT)
+- [Databricks Certified Machine Learning Engineer Associate](https://credentials.databricks.com/2dcf87b0-0d27-411b-9256-13571411acb4#acc.0wEh9O31)
+- [Google Cloud Professional Machine Learning Engineer](https://www.credly.com/badges/25d196ab-0216-42e5-ad0e-dc10cf0d4c38/linked_in_profile)
+- [Claude Certified Developer Foundations](https://www.credly.com/badges/147b3f9d-7496-4357-9734-a5ac202eb03a/linked_in_profile)
+- [GitHub Copilot-300 Certified](https://learn.microsoft.com/en-in/users/probalkar-0242/credentials/9d369458c5b125a1)
 
 </details>
 
